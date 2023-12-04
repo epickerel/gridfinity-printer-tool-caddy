@@ -1,6 +1,6 @@
 # Gridfinity printer tool caddy
 
-![](printer caddy.png)
+<img src="printer caddy.png" />
 
 Any hobby brings with it a bundle of tools that you'll need -- either on hand for daily use, or in easily locatable storage for that twice-a-year use. What makes 3D printing unique is that you can create storage to fit your exact needs and space!
 
