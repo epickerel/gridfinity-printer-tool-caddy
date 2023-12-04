@@ -1,5 +1,7 @@
 # Gridfinity printer tool caddy
 
+![](printer caddy.png)
+
 Any hobby brings with it a bundle of tools that you'll need -- either on hand for daily use, or in easily locatable storage for that twice-a-year use. What makes 3D printing unique is that you can create storage to fit your exact needs and space!
 
 Gridfinity is one such option created by 3D printing guru Zack Freidman. At its essence, it's a tool display system based on a 42mm[^1] grid. Display rather than storage focused, so you can find your tools when you need them. And because it's an open and free standard, makers around the world have created countless options for storage using Gridfinity, and you can make your own as you get familiar with creating in CAD software.
